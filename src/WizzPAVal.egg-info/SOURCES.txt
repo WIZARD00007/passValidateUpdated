@@ -1,0 +1,9 @@
+LICENSE.txt
+README.md
+setup.py
+src/WizzPAVal.py
+src/WizzPAVal.egg-info/PKG-INFO
+src/WizzPAVal.egg-info/SOURCES.txt
+src/WizzPAVal.egg-info/dependency_links.txt
+src/WizzPAVal.egg-info/requires.txt
+src/WizzPAVal.egg-info/top_level.txt
