@@ -1,0 +1,37 @@
+Metadata-Version: 2.1
+Name: WizzPassVal
+Version: 1.0
+Summary: validating password
+Home-page: UNKNOWN
+Author: Akshay
+Author-email: akshaysavanoor@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.10
+Classifier: License :: OSI Approved :: GNU General Public License v2 or later (GPLv2+)
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+
+WizzPassVal
+* this is a simple project to validate username and password
+* this project will be upgraded soon and will be added with new modules. 
+
+usage 
+```python
+* importing validator function
+  from WizzPassVal import autoVal
+*running validator
+  autoval('username','password')
+```
+Developing WizzPassVal
+* To install WizzPassVal, along with the tools you need to develop
+   and run tests, run the following
+  in your virtualenv.
+```bash
+$ pip install -e .[dev]
+```
+
+

@@ -1,0 +1,8 @@
+LICENSE.txt
+README.md
+setup.py
+src/WizzPassVal.egg-info/PKG-INFO
+src/WizzPassVal.egg-info/SOURCES.txt
+src/WizzPassVal.egg-info/dependency_links.txt
+src/WizzPassVal.egg-info/requires.txt
+src/WizzPassVal.egg-info/top_level.txt
