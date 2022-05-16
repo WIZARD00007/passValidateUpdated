@@ -14,5 +14,4 @@ def autoVal(user,passw):
             print('password should contain atleast one special character')
         else:
             print('valid password')
-
     passTst(user,passw)

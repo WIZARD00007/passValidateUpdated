@@ -1,11 +1,11 @@
 from setuptools import setup
-with open("README.md","r") as fh:
+with open("../README.md", "r") as fh:
     long_description = fh.read()
 setup(
-    name='WizzPAVal',
-    version='4',
+    name='WizzPassVal',
+    version='1.0',
     description='validating password',
-    py_modules=["WizzPAVal"],
+    py_modules=["WizzPassVal"],
     package_dir={'':'src'},
     classifiers=[
         "Programming Language :: Python :: 3",
